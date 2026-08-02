@@ -8,8 +8,7 @@ Finance Performance Analysis is an interactive Power BI dashboard designed to an
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
----
+Dashboard.png
 
 ## Features
 
